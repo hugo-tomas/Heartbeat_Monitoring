@@ -1,6 +1,6 @@
 # Real-Time Heartbeat Monitoring Using an ECG Sensor
 ## Overview
-This project focuses on the development of a system for real-time monitoring of heartbeats using an Electrocardiogram (ECG) sensor. It processes and displays various metrics derived from ECG signals, providing a graphical interface for visualization.
+This project focuses on the development of a system for real-time monitoring of heartbeats using an Electrocardiogram (ECG) sensor. It processes and displays various metrics derived from ECG signals, providing a graphical interface for visualization ([Download and Watch Video of the ECG APP](ECG_App.mp4)).
 
 ## Key Features
 ### System Capabilities
